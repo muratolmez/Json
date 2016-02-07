@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#ffff0000</color>
+    <color name="blue">#33FFCC</color>
+    <color name="annen">#99FFFF</color>
+    <color name="baban">#009900</color>
+    <color name="siyah">#000000</color>
+    <color name="beyaz">#CCFFCC</color>
+    <color name="ColorPrimary">#FF5722</color>
+    <color name="ColorPrimaryDark">#E64A19</color>
+
+</resources>
